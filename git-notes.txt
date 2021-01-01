@@ -1,0 +1,8 @@
+git status
+
+git add —all
+git commit -m "message"
+git push
+
+git fetch
+git pull
